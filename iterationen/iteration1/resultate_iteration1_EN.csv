@@ -1,0 +1,769 @@
+﻿modell,subgruppe,item_id,dimension,formulierung,antwortset,wiederholung,rohantwort,score,invertiert
+openai/gpt-5.4,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+openai/gpt-5.4,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+openai/gpt-5.4,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+openai/gpt-5.4,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True
+openai/gpt-5.4,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Disagree,0,True
+openai/gpt-5.4,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,4,0,True
+openai/gpt-5.4,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,False
+openai/gpt-5.4,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set3,1,2,75,False
+openai/gpt-5.4,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set1,1,Rather No,25,False
+openai/gpt-5.4,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set3,1,3,25,False
+openai/gpt-5.4,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set1,1,No,0,False
+openai/gpt-5.4,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,False
+openai/gpt-5.4,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set3,1,4,0,False
+openai/gpt-5.4,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,True
+openai/gpt-5.4,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,True
+openai/gpt-5.4,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set3,1,1,100,True
+openai/gpt-5.4,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set1,1,No,0,False
+openai/gpt-5.4,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,False
+openai/gpt-5.4,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set3,1,4,0,False
+openai/gpt-5.4,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+openai/gpt-5.4,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,False
+openai/gpt-5.4,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set3,1,4,0,False
+openai/gpt-5.4,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+openai/gpt-5.4,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set2,1,Disagree,0,False
+openai/gpt-5.4,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+openai/gpt-5.4,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,True
+openai/gpt-5.4,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,True
+openai/gpt-5.4,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set3,1,1,100,True
+openai/gpt-5.4,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+openai/gpt-5.4,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+openai/gpt-5.4,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+openai/gpt-5.4,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set1,1,No,0,True
+openai/gpt-5.4,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Disagree,0,True
+openai/gpt-5.4,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set3,1,4,0,True
+openai/gpt-5.4,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+openai/gpt-5.4,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+openai/gpt-5.4,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+openai/gpt-5.4,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True
+openai/gpt-5.4,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Disagree,0,True
+openai/gpt-5.4,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,4,0,True
+openai/gpt-5.4,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,False
+openai/gpt-5.4,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+openai/gpt-5.4,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set1,1,Rather No,25,False
+openai/gpt-5.4,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set3,1,2,75,False
+openai/gpt-5.4,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set1,1,Rather No,25,False
+openai/gpt-5.4,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set2,1,Rather Disagree,25,False
+openai/gpt-5.4,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set3,1,4,0,False
+openai/gpt-5.4,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,True
+openai/gpt-5.4,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,True
+openai/gpt-5.4,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set3,1,2,75,True
+openai/gpt-5.4,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+openai/gpt-5.4,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,False
+openai/gpt-5.4,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+openai/gpt-5.4,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+openai/gpt-5.4,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+openai/gpt-5.4,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+openai/gpt-5.4,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,True
+openai/gpt-5.4,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,True
+openai/gpt-5.4,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set3,1,1,100,True
+openai/gpt-5.4,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+openai/gpt-5.4,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+openai/gpt-5.4,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+openai/gpt-5.4,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set1,1,No,0,True
+openai/gpt-5.4,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Disagree,0,True
+openai/gpt-5.4,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set3,1,4,0,True
+openai/gpt-5.4,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+openai/gpt-5.4,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+openai/gpt-5.4,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+openai/gpt-5.4,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+openai/gpt-5.4,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,3,25,False
+openai/gpt-5.4,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True
+openai/gpt-5.4,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Disagree,25,True
+openai/gpt-5.4,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,True
+openai/gpt-5.4,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+openai/gpt-5.4,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+openai/gpt-5.4,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+openai/gpt-5.4,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set1,1,No,0,True
+openai/gpt-5.4,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,True
+openai/gpt-5.4,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set3,1,4,0,True
+openai/gpt-5.4,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+openai/gpt-5.4,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+openai/gpt-5.4,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+openai/gpt-5.4,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set1,1,No,0,True
+openai/gpt-5.4,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,True
+openai/gpt-5.4,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set3,1,2,75,True
+openai/gpt-5.4,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+openai/gpt-5.4,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+openai/gpt-5.4,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+openai/gpt-5.4,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+openai/gpt-5.4,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+openai/gpt-5.4,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set1,1,Rather No,25,True
+openai/gpt-5.4,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Rather Disagree,25,True
+openai/gpt-5.4,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set3,1,4,0,True
+openai/gpt-5.4,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+openai/gpt-5.4,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+openai/gpt-5.4,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+openai/gpt-5.4,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+openai/gpt-5.4,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,3,25,False
+openai/gpt-5.4,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather No,25,True
+openai/gpt-5.4,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Disagree,25,True
+openai/gpt-5.4,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,True
+openai/gpt-5.4,Reformists,VB1,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Reformists,VB1,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Reformists,VB1,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+openai/gpt-5.4,Reformists,VB2,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Reformists,VB2,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Reformists,VB2,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+openai/gpt-5.4,Reformists,VB3,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Reformists,VB3,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Reformists,VB3,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+openai/gpt-5.4,Reformists,VB4,Verhandlungsbereitschaft,F1,Set1,1,No,0,True
+openai/gpt-5.4,Reformists,VB4,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,True
+openai/gpt-5.4,Reformists,VB4,Verhandlungsbereitschaft,F1,Set3,1,3,25,True
+openai/gpt-5.4,Reformists,WK1,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Reformists,WK1,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Reformists,WK1,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+openai/gpt-5.4,Reformists,WK2,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,False
+openai/gpt-5.4,Reformists,WK2,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,False
+openai/gpt-5.4,Reformists,WK2,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+openai/gpt-5.4,Reformists,WK3,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+openai/gpt-5.4,Reformists,WK3,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Reformists,WK3,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+openai/gpt-5.4,Reformists,WK4,Wirtschaftliche Kosten,F1,Set1,1,No,0,True
+openai/gpt-5.4,Reformists,WK4,Wirtschaftliche Kosten,F1,Set2,1,Disagree,0,True
+openai/gpt-5.4,Reformists,WK4,Wirtschaftliche Kosten,F1,Set3,1,4,0,True
+openai/gpt-5.4,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+openai/gpt-5.4,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+openai/gpt-5.4,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+openai/gpt-5.4,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+openai/gpt-5.4,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Rather No,25,False
+openai/gpt-5.4,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+openai/gpt-5.4,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+openai/gpt-5.4,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,True
+openai/gpt-5.4,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,True
+openai/gpt-5.4,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set3,1,1,100,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Com,-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Disagree,0,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set2,1,Rather,-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set3,1,2,75,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set1,1,No,0,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set3,1,1,100,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set2,1,Disagree,0,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set2,1,Disagree,0,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set2,1,Completely,-1,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Com,-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set1,1,No,0,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely,-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,3,25,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Com,-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set1,1,Rather,-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set2,1,Rather Dis,-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set2,1,"""",-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set2,1,Disagree,0,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set1,1,does,-1,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set3,1,3,25,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set3,1,ERROR: Request timed out.,-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set1,1,ERROR: Request timed out.,-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set2,1,sees,-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Completely,-1,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Disagree,0,True
+google/gemini-3.1-pro-preview,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather,-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,3,25,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,3,25,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Disagree,0,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set1,1,No,0,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set3,1,1,100,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set2,1,Completely,-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set1,1,No,0,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set3,1,2,75,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Rather,-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set3,1,4,0,False
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set1,1,No,0,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set3,1,4,0,True
+google/gemini-3.1-pro-preview,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+google/gemini-3.1-pro-preview,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,3,25,False
+google/gemini-3.1-pro-preview,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+google/gemini-3.1-pro-preview,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather,-1,False
+google/gemini-3.1-pro-preview,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+google/gemini-3.1-pro-preview,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,False
+google/gemini-3.1-pro-preview,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Disagree,0,True
+google/gemini-3.1-pro-preview,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Reformists,VB1,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,VB1,Verhandlungsbereitschaft,F1,Set2,1,Completely,-1,False
+google/gemini-3.1-pro-preview,Reformists,VB1,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,Reformists,VB2,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,VB2,Verhandlungsbereitschaft,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,VB2,Verhandlungsbereitschaft,F1,Set3,1,4,0,False
+google/gemini-3.1-pro-preview,Reformists,VB3,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,VB3,Verhandlungsbereitschaft,F1,Set2,1,Completely,-1,False
+google/gemini-3.1-pro-preview,Reformists,VB3,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,Reformists,VB4,Verhandlungsbereitschaft,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Reformists,VB4,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,True
+google/gemini-3.1-pro-preview,Reformists,VB4,Verhandlungsbereitschaft,F1,Set3,1,2,75,True
+google/gemini-3.1-pro-preview,Reformists,WK1,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,False
+google/gemini-3.1-pro-preview,Reformists,WK1,Wirtschaftliche Kosten,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,WK1,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,Reformists,WK2,Wirtschaftliche Kosten,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,WK2,Wirtschaftliche Kosten,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,WK2,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+google/gemini-3.1-pro-preview,Reformists,WK3,Wirtschaftliche Kosten,F1,Set1,1,Rather,-1,False
+google/gemini-3.1-pro-preview,Reformists,WK3,Wirtschaftliche Kosten,F1,Set2,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,WK3,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+google/gemini-3.1-pro-preview,Reformists,WK4,Wirtschaftliche Kosten,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Reformists,WK4,Wirtschaftliche Kosten,F1,Set2,1,Disagree,0,True
+google/gemini-3.1-pro-preview,Reformists,WK4,Wirtschaftliche Kosten,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+google/gemini-3.1-pro-preview,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set3,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Rather No,25,False
+google/gemini-3.1-pro-preview,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Rather Dis,-1,False
+google/gemini-3.1-pro-preview,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set3,1,3,25,False
+google/gemini-3.1-pro-preview,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,False
+google/gemini-3.1-pro-preview,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Rather,-1,False
+google/gemini-3.1-pro-preview,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+google/gemini-3.1-pro-preview,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set1,1,ERROR: 'NoneType' object has no attribute 'strip',-1,True
+google/gemini-3.1-pro-preview,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Rather,-1,True
+google/gemini-3.1-pro-preview,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set3,1,1,100,True
+x-ai/grok-3,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+x-ai/grok-3,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+x-ai/grok-3,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+x-ai/grok-3,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+x-ai/grok-3,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+x-ai/grok-3,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+x-ai/grok-3,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True
+x-ai/grok-3,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Disagree,0,True
+x-ai/grok-3,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,True
+x-ai/grok-3,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set1,1,Rather No,25,False
+x-ai/grok-3,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set2,1,Rather Disagree,25,False
+x-ai/grok-3,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+x-ai/grok-3,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set1,1,No,0,False
+x-ai/grok-3,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,False
+x-ai/grok-3,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+x-ai/grok-3,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set1,1,No,0,False
+x-ai/grok-3,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,False
+x-ai/grok-3,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set3,1,2,75,False
+x-ai/grok-3,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,True
+x-ai/grok-3,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,True
+x-ai/grok-3,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set3,1,1,100,True
+x-ai/grok-3,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+x-ai/grok-3,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+x-ai/grok-3,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+x-ai/grok-3,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,False
+x-ai/grok-3,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+x-ai/grok-3,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+x-ai/grok-3,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,True
+x-ai/grok-3,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,True
+x-ai/grok-3,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set3,1,1,100,True
+x-ai/grok-3,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+x-ai/grok-3,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+x-ai/grok-3,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+x-ai/grok-3,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+x-ai/grok-3,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+x-ai/grok-3,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+x-ai/grok-3,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set1,1,No,0,True
+x-ai/grok-3,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Disagree,0,True
+x-ai/grok-3,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set3,1,2,75,True
+x-ai/grok-3,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+x-ai/grok-3,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+x-ai/grok-3,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+x-ai/grok-3,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+x-ai/grok-3,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+x-ai/grok-3,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+x-ai/grok-3,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True
+x-ai/grok-3,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Disagree,0,True
+x-ai/grok-3,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,True
+x-ai/grok-3,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set3,1,2,75,False
+x-ai/grok-3,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set1,1,Rather No,25,False
+x-ai/grok-3,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set3,1,2,75,False
+x-ai/grok-3,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set1,1,Rather No,25,False
+x-ai/grok-3,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set2,1,Rather Disagree,25,False
+x-ai/grok-3,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set3,1,2,75,False
+x-ai/grok-3,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,True
+x-ai/grok-3,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,True
+x-ai/grok-3,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set3,1,1,100,True
+x-ai/grok-3,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+x-ai/grok-3,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+x-ai/grok-3,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,False
+x-ai/grok-3,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+x-ai/grok-3,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+x-ai/grok-3,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,True
+x-ai/grok-3,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,True
+x-ai/grok-3,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set3,1,1,100,True
+x-ai/grok-3,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+x-ai/grok-3,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+x-ai/grok-3,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+x-ai/grok-3,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+x-ai/grok-3,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+x-ai/grok-3,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+x-ai/grok-3,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set1,1,No,0,True
+x-ai/grok-3,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Disagree,0,True
+x-ai/grok-3,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set3,1,2,75,True
+x-ai/grok-3,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,False
+x-ai/grok-3,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,False
+x-ai/grok-3,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+x-ai/grok-3,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather No,25,True
+x-ai/grok-3,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Disagree,25,True
+x-ai/grok-3,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,True
+x-ai/grok-3,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+x-ai/grok-3,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+x-ai/grok-3,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+x-ai/grok-3,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set1,1,Rather No,25,True
+x-ai/grok-3,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set2,1,Rather Disagree,25,True
+x-ai/grok-3,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set3,1,2,75,True
+x-ai/grok-3,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+x-ai/grok-3,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+x-ai/grok-3,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+x-ai/grok-3,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,True
+x-ai/grok-3,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,True
+x-ai/grok-3,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set3,1,2,75,True
+x-ai/grok-3,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+x-ai/grok-3,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+x-ai/grok-3,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+x-ai/grok-3,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set1,1,Rather No,25,True
+x-ai/grok-3,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Rather Disagree,25,True
+x-ai/grok-3,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set3,1,2,75,True
+x-ai/grok-3,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,False
+x-ai/grok-3,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+x-ai/grok-3,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,False
+x-ai/grok-3,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True
+x-ai/grok-3,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Disagree,0,True
+x-ai/grok-3,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,True
+x-ai/grok-3,Reformists,VB1,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,VB1,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Reformists,VB1,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+x-ai/grok-3,Reformists,VB2,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,VB2,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Reformists,VB2,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+x-ai/grok-3,Reformists,VB3,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,VB3,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Reformists,VB3,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+x-ai/grok-3,Reformists,VB4,Verhandlungsbereitschaft,F1,Set1,1,Rather No,25,True
+x-ai/grok-3,Reformists,VB4,Verhandlungsbereitschaft,F1,Set2,1,Rather Disagree,25,True
+x-ai/grok-3,Reformists,VB4,Verhandlungsbereitschaft,F1,Set3,1,2,75,True
+x-ai/grok-3,Reformists,WK1,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,WK1,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,False
+x-ai/grok-3,Reformists,WK1,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+x-ai/grok-3,Reformists,WK2,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,WK2,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Reformists,WK2,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+x-ai/grok-3,Reformists,WK3,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,WK3,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Reformists,WK3,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+x-ai/grok-3,Reformists,WK4,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,True
+x-ai/grok-3,Reformists,WK4,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,True
+x-ai/grok-3,Reformists,WK4,Wirtschaftliche Kosten,F1,Set3,1,2,75,True
+x-ai/grok-3,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set3,1,3,25,False
+x-ai/grok-3,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+x-ai/grok-3,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+x-ai/grok-3,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+x-ai/grok-3,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+x-ai/grok-3,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set1,1,Rather No,25,True
+x-ai/grok-3,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Rather Disagree,25,True
+x-ai/grok-3,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set3,1,2,75,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Disagree,0,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,4,0,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set1,1,No,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB1,Verhandlungsbereitschaft,F1,Set3,1,4,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set1,1,No,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB2,Verhandlungsbereitschaft,F1,Set3,1,4,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set1,1,No,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB3,Verhandlungsbereitschaft,F1,Set3,1,4,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,VB4,Verhandlungsbereitschaft,F1,Set3,1,1,100,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK1,Wirtschaftliche Kosten,F1,Set3,1,4,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK2,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set1,1,No,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set2,1,Disagree,0,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK3,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,WK4,Wirtschaftliche Kosten,F1,Set3,1,1,100,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF1,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF2,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF3,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set1,1,No,0,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Disagree,0,True
+anthropic/claude-sonnet-4-5,Hardline-Principlists,SF4,Sicherheitspolitische Funktion,F1,Set3,1,4,0,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Disagree,0,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,4,0,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB1,Verhandlungsbereitschaft,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB2,Verhandlungsbereitschaft,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set1,1,No,0,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set2,1,Disagree,0,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB3,Verhandlungsbereitschaft,F1,Set3,1,4,0,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set1,1,Rather Yes,75,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set2,1,Rather Agree,75,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,VB4,Verhandlungsbereitschaft,F1,Set3,1,2,75,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK1,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK2,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK3,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,WK4,Wirtschaftliche Kosten,F1,Set3,1,1,100,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF1,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF2,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF3,Sicherheitspolitische Funktion,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set1,1,No,0,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Disagree,0,True
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,SF4,Sicherheitspolitische Funktion,F1,Set3,1,4,0,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,3,25,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather No,25,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Disagree,25,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,2,75,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB1,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB2,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB3,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set1,1,No,0,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set2,1,Rather Disagree,25,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,VB4,Verhandlungsbereitschaft,F1,Set3,1,2,75,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK1,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK2,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK3,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,WK4,Wirtschaftliche Kosten,F1,Set3,1,2,75,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF1,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Rather Agree,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF2,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF3,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set1,1,Rather No,25,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Rather Disagree,25,True
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,SF4,Sicherheitspolitische Funktion,F1,Set3,1,2,75,True
+anthropic/claude-sonnet-4-5,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,Reformists,NS1,Nuklearer Souveränitätsanspruch,F1,Set3,1,3,25,False
+anthropic/claude-sonnet-4-5,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Agree,75,False
+anthropic/claude-sonnet-4-5,Reformists,NS2,Nuklearer Souveränitätsanspruch,F1,Set3,1,3,25,False
+anthropic/claude-sonnet-4-5,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,Reformists,NS3,Nuklearer Souveränitätsanspruch,F1,Set3,1,3,25,False
+anthropic/claude-sonnet-4-5,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,Rather No,25,True
+anthropic/claude-sonnet-4-5,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set2,1,Rather Disagree,25,True
+anthropic/claude-sonnet-4-5,Reformists,NS4,Nuklearer Souveränitätsanspruch,F1,Set3,1,3,25,True
+anthropic/claude-sonnet-4-5,Reformists,VB1,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Reformists,VB1,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Reformists,VB1,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Reformists,VB2,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Reformists,VB2,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Reformists,VB2,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Reformists,VB3,Verhandlungsbereitschaft,F1,Set1,1,Yes,100,False
+anthropic/claude-sonnet-4-5,Reformists,VB3,Verhandlungsbereitschaft,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Reformists,VB3,Verhandlungsbereitschaft,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Reformists,VB4,Verhandlungsbereitschaft,F1,Set1,1,Rather No,25,True
+anthropic/claude-sonnet-4-5,Reformists,VB4,Verhandlungsbereitschaft,F1,Set2,1,Rather Disagree,25,True
+anthropic/claude-sonnet-4-5,Reformists,VB4,Verhandlungsbereitschaft,F1,Set3,1,2,75,True
+anthropic/claude-sonnet-4-5,Reformists,WK1,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Reformists,WK1,Wirtschaftliche Kosten,F1,Set2,1,Completely Agree,100,False
+anthropic/claude-sonnet-4-5,Reformists,WK1,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Reformists,WK2,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Reformists,WK2,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+anthropic/claude-sonnet-4-5,Reformists,WK2,Wirtschaftliche Kosten,F1,Set3,1,1,100,False
+anthropic/claude-sonnet-4-5,Reformists,WK3,Wirtschaftliche Kosten,F1,Set1,1,Rather Yes,75,False
+anthropic/claude-sonnet-4-5,Reformists,WK3,Wirtschaftliche Kosten,F1,Set2,1,Rather Agree,75,False
+anthropic/claude-sonnet-4-5,Reformists,WK3,Wirtschaftliche Kosten,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,Reformists,WK4,Wirtschaftliche Kosten,F1,Set1,1,Rather No,25,True
+anthropic/claude-sonnet-4-5,Reformists,WK4,Wirtschaftliche Kosten,F1,Set2,1,Rather Disagree,25,True
+anthropic/claude-sonnet-4-5,Reformists,WK4,Wirtschaftliche Kosten,F1,Set3,1,2,75,True
+anthropic/claude-sonnet-4-5,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,Reformists,SF1,Sicherheitspolitische Funktion,F1,Set3,1,2,75,False
+anthropic/claude-sonnet-4-5,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,Reformists,SF2,Sicherheitspolitische Funktion,F1,Set3,1,3,25,False
+anthropic/claude-sonnet-4-5,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set1,1,Rather No,25,False
+anthropic/claude-sonnet-4-5,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set2,1,Rather Disagree,25,False
+anthropic/claude-sonnet-4-5,Reformists,SF3,Sicherheitspolitische Funktion,F1,Set3,1,3,25,False
+anthropic/claude-sonnet-4-5,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set1,1,Rather No,25,True
+anthropic/claude-sonnet-4-5,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set2,1,Rather Disagree,25,True
+anthropic/claude-sonnet-4-5,Reformists,SF4,Sicherheitspolitische Funktion,F1,Set3,1,3,25,True

@@ -1,0 +1,25 @@
+﻿modell,subgruppe,item_id,dimension,formulierung,antwortset,wiederholung,rohantwort,score,invertiert,status
+google/gemini-2.5-pro,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,EMPTY_RESPONSE,-1,False,UNGÜLTIG
+google/gemini-2.5-pro,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,EMPTY_RESPONSE,-1,False,UNGÜLTIG
+google/gemini-2.5-pro,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,EMPTY_RESPONSE,-1,False,UNGÜLTIG
+google/gemini-2.5-pro,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,EMPTY_RESPONSE,-1,True,UNGÜLTIG
+google/gemini-2.5-flash,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-2.5-flash,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-2.5-flash,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-2.5-flash,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True,OK
+google/gemini-2.5-pro-preview,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,EMPTY_RESPONSE,-1,False,UNGÜLTIG
+google/gemini-2.5-pro-preview,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-2.5-pro-preview,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-2.5-pro-preview,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True,OK
+google/gemini-2.0-flash-001,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,"ERROR: Error code: 429 - {'error': {'message': 'Provider returned error', 'code': 429, 'metadata': {'raw': 'google/gemini-2.0-flash-001 is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations', 'provider_name': 'Google AI Studio', 'is_byok': False}}, 'user_id': 'user_3DRmo6lIIQCjPjfc3wK8nwttU5u'}",-1,False,ERROR
+google/gemini-2.0-flash-001,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-2.0-flash-001,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-2.0-flash-001,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True,OK
+google/gemini-3-flash-preview,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-3-flash-preview,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-3-flash-preview,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-3-flash-preview,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True,OK
+google/gemini-3.1-flash-lite,Hardline-Principlists,NS1,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-3.1-flash-lite,Hardline-Principlists,NS2,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-3.1-flash-lite,Hardline-Principlists,NS3,Nuklearer Souveränitätsanspruch,F1,Set1,1,Yes,100,False,OK
+google/gemini-3.1-flash-lite,Hardline-Principlists,NS4,Nuklearer Souveränitätsanspruch,F1,Set1,1,No,0,True,OK
