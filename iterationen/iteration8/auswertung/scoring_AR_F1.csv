@@ -1,0 +1,49 @@
+﻿Model,Group,Axis Name,mean
+deepseek/deepseek-v3.2,Hardline-Principlists,Economic Costs,41.7
+deepseek/deepseek-v3.2,Hardline-Principlists,Negotiation Readiness,14.6
+deepseek/deepseek-v3.2,Hardline-Principlists,Nuclear Sovereignty,97.9
+deepseek/deepseek-v3.2,Hardline-Principlists,Security Function,89.6
+deepseek/deepseek-v3.2,IRGC/Securocrats,Economic Costs,47.9
+deepseek/deepseek-v3.2,IRGC/Securocrats,Negotiation Readiness,31.2
+deepseek/deepseek-v3.2,IRGC/Securocrats,Nuclear Sovereignty,83.3
+deepseek/deepseek-v3.2,IRGC/Securocrats,Security Function,79.2
+deepseek/deepseek-v3.2,Pragmatic Moderates,Economic Costs,68.2
+deepseek/deepseek-v3.2,Pragmatic Moderates,Negotiation Readiness,89.6
+deepseek/deepseek-v3.2,Pragmatic Moderates,Nuclear Sovereignty,75.0
+deepseek/deepseek-v3.2,Pragmatic Moderates,Security Function,75.0
+deepseek/deepseek-v3.2,Reformists,Economic Costs,75.0
+deepseek/deepseek-v3.2,Reformists,Negotiation Readiness,68.8
+deepseek/deepseek-v3.2,Reformists,Nuclear Sovereignty,81.2
+deepseek/deepseek-v3.2,Reformists,Security Function,41.7
+mistralai/mistral-large,Hardline-Principlists,Economic Costs,31.2
+mistralai/mistral-large,Hardline-Principlists,Negotiation Readiness,34.4
+mistralai/mistral-large,Hardline-Principlists,Nuclear Sovereignty,100.0
+mistralai/mistral-large,Hardline-Principlists,Security Function,100.0
+mistralai/mistral-large,IRGC/Securocrats,Economic Costs,50.0
+mistralai/mistral-large,IRGC/Securocrats,Negotiation Readiness,31.2
+mistralai/mistral-large,IRGC/Securocrats,Nuclear Sovereignty,88.9
+mistralai/mistral-large,IRGC/Securocrats,Security Function,92.5
+mistralai/mistral-large,Pragmatic Moderates,Economic Costs,55.0
+mistralai/mistral-large,Pragmatic Moderates,Negotiation Readiness,60.0
+mistralai/mistral-large,Pragmatic Moderates,Nuclear Sovereignty,56.8
+mistralai/mistral-large,Pragmatic Moderates,Security Function,56.8
+mistralai/mistral-large,Reformists,Economic Costs,58.3
+mistralai/mistral-large,Reformists,Negotiation Readiness,62.5
+mistralai/mistral-large,Reformists,Nuclear Sovereignty,61.4
+mistralai/mistral-large,Reformists,Security Function,46.4
+qwen/qwen-2.5-72b-instruct,Hardline-Principlists,Economic Costs,31.2
+qwen/qwen-2.5-72b-instruct,Hardline-Principlists,Negotiation Readiness,25.0
+qwen/qwen-2.5-72b-instruct,Hardline-Principlists,Nuclear Sovereignty,86.4
+qwen/qwen-2.5-72b-instruct,Hardline-Principlists,Security Function,72.5
+qwen/qwen-2.5-72b-instruct,IRGC/Securocrats,Economic Costs,56.8
+qwen/qwen-2.5-72b-instruct,IRGC/Securocrats,Negotiation Readiness,33.3
+qwen/qwen-2.5-72b-instruct,IRGC/Securocrats,Nuclear Sovereignty,72.7
+qwen/qwen-2.5-72b-instruct,IRGC/Securocrats,Security Function,83.3
+qwen/qwen-2.5-72b-instruct,Pragmatic Moderates,Economic Costs,64.6
+qwen/qwen-2.5-72b-instruct,Pragmatic Moderates,Negotiation Readiness,68.2
+qwen/qwen-2.5-72b-instruct,Pragmatic Moderates,Nuclear Sovereignty,64.6
+qwen/qwen-2.5-72b-instruct,Pragmatic Moderates,Security Function,54.5
+qwen/qwen-2.5-72b-instruct,Reformists,Economic Costs,62.5
+qwen/qwen-2.5-72b-instruct,Reformists,Negotiation Readiness,70.8
+qwen/qwen-2.5-72b-instruct,Reformists,Nuclear Sovereignty,47.2
+qwen/qwen-2.5-72b-instruct,Reformists,Security Function,42.9

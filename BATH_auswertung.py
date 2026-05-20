@@ -13,9 +13,9 @@ import os
 # Iteration 4: CSV_DATEI = "iterationen/iteration4/resultate_iteration4_EN.csv"
 # Iteration 6: CSV_DATEI = "iterationen/iteration6/resultate_iteration6_ALL.csv"
 
-CSV_DATEI = "iterationen/iteration6/resultate_iteration6_ALL.csv"
-OUTPUT_ORDNER = "iterationen/iteration6/auswertung"
-ITERATIONS_NR = "Iteration 6"
+CSV_DATEI = "iterationen/iteration8/resultate_iteration8_ALL.csv"
+OUTPUT_ORDNER = "iterationen/iteration8/auswertung"
+ITERATIONS_NR = "Iteration 8"
 
 os.makedirs(OUTPUT_ORDNER, exist_ok=True)
 
@@ -71,6 +71,10 @@ MODELL_FARBEN = {
     "gpt-5.4": "#70AD47",
     "grok-3": "#FF0000",
     "grok-4.3": "#FF0000",
+    # NEU:
+    "deepseek-v3.2": "#9B59B6",
+    "qwen-2.5-72b-instruct": "#F39C12",
+    "mistral-large": "#1ABC9C",
 }
 
 # ── DATEN LADEN ────────────────────────────────────────────
