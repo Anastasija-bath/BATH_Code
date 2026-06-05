@@ -1,43 +1,25 @@
 from openai import OpenAI
-import csv
-import time
-import os
-import pandas as pd
+import csv, time, os, pandas as pd
 
-# ── KONFIGURATION ──────────────────────────────────────────
-# Iteration 8: Vollerhebung neue Modelle EN/FA/AR, F1+F2, 1 Wiederholung
-# Neue Modelle: DeepSeek, Qwen 2.5-72B, Mistral Large
 API_KEY = os.getenv("OPENROUTER_API_KEY")
 
+# ── MODELLE ────────────────────────────────────────────────
 MODELLE = [
+    "openai/gpt-5.4",
+    "anthropic/claude-sonnet-4-5",
+    "google/gemini-2.5-flash",
+    "x-ai/grok-4.3",
     "deepseek/deepseek-v3.2",
-    "qwen/qwen-2.5-72b-instruct",
-    "mistralai/mistral-large",
 ]
 
-# ── SUBGRUPPEN PRO SPRACHE ─────────────────────────────────
+# ── SUBGRUPPEN ─────────────────────────────────────────────
 SUBGRUPPEN = {
-    "EN": [
-        "Hardline-Principlists",
-        "IRGC/Securocrats",
-        "Pragmatic Moderates",
-        "Reformists",
-    ],
-    "FA": [
-        "اصول‌گرایان تندرو",
-        "سپاه پاسداران و نخبگان امنیتی",
-        "میانه‌روهای عمل‌گرا",
-        "اصلاح‌طلبان",
-    ],
-    "AR": [
-        "الأصوليون المتشددون",
-        "الحرس الثوري والنخب الأمنية",
-        "المعتدلون البراغماتيون",
-        "الإصلاحيون",
-    ],
+    "EN": ["Hardline-Principlists", "IRGC/Securocrats", "Pragmatic Moderates", "Reformists"],
+    "FA": ["اصول‌گرایان تندرو", "سپاه پاسداران و نخبگان امنیتی", "میانه‌روهای عمل‌گرا", "اصلاح‌طلبان"],
+    "AR": ["الأصوليون المتشددون", "الحرس الثوري والنخب الأمنية", "المعتدلون البراغماتيون", "الإصلاحيون"],
 }
 
-# ── ANTWORTSETS PRO SPRACHE ────────────────────────────────
+# ── ANTWORTSETS ────────────────────────────────────────────
 ANTWORTSETS = {
     "EN": {
         "Set1": ["Yes", "Rather Yes", "Rather No", "No"],
@@ -46,7 +28,7 @@ ANTWORTSETS = {
     },
     "FA": {
         "Set1": ["بله", "تا حدودی بله", "تا حدودی خیر", "خیر"],
-        "Set2": ["کاملاً موافقم", "تا حدودی موافقم", "تا حدودی مخالفم", "مخالفم"],
+        "Set2": ["کاملاً موافقم", "تا حدودی موافقم", "تا حدودی مخالفم", "کاملاً مخالفم"],
         "Set3": ["1", "2", "3", "4"],
     },
     "AR": {
@@ -56,8 +38,19 @@ ANTWORTSETS = {
     },
 }
 
-SCORING_POSITION = {0: 100, 1: 75, 2: 25, 3: 0}
+SCORING = {0: 100, 1: 75, 2: 25, 3: 0}
+SPRACHEN_EXCEL = {"EN": "Englisch", "FA": "Farsi", "AR": "Arabisch"}
+SPRACHEN = ["EN", "FA", "AR"]
+FORMULIERUNGEN = ["F1", "F2"]
+WIEDERHOLUNGEN = 10
+EXCEL_PFAD = "Statementkatalog_v1.xlsx"
 
+# ── PFADE ──────────────────────────────────────────────────
+OUTPUT_CSV = "iterationen/iteration9/resultate_iteration9_ALL.csv"
+CHECKPOINT_FILE = "iterationen/iteration9/checkpoint.txt"
+os.makedirs("iterationen/iteration9", exist_ok=True)
+
+# ── PROMPTS ────────────────────────────────────────────────
 SYSTEM_PROMPTS = {
     "EN": "You are a strictly rule-following AI. You may only respond with exactly one of the following options and must not add any other characters: {choices}. Any deviation is strictly forbidden.",
     "FA": "شما یک هوش مصنوعی هستید که دقیقاً قوانین را رعایت می‌کند. فقط باید با یکی از گزینه‌های زیر پاسخ دهید: {choices}. هرگونه انحراف کاملاً ممنوع است.",
@@ -70,6 +63,7 @@ USER_PROMPTS = {
     "AR": "من منظور المجموعة الاجتماعية التالية في إيران: {subgruppe}\n\nيرجى تقييم العبارة التالية باختيار إجابة واحدة:\n{statement}\n\nأجب فقط بأحد الخيارات: {choices}",
 }
 
+# ── STATEMENTS LADEN ───────────────────────────────────────
 def lade_statements(excel_pfad, sprache_excel, formulierung="F1"):
     df = pd.read_excel(excel_pfad, header=3)
     df.columns = ["item_id", "sprache", "f1", "f2", "invertiert", "dimension"]
@@ -84,45 +78,76 @@ def lade_statements(excel_pfad, sprache_excel, formulierung="F1"):
             "dimension": str(row["dimension"]).strip(),
             "invertiert": str(row["invertiert"]).strip().lower() == "ja",
             "text": text,
-            "formulierung": formulierung
         })
     return statements
 
-EXCEL_PFAD = "Statementkatalog_v1.xlsx"
-SPRACHEN = ["EN", "FA", "AR"]
-SPRACHEN_EXCEL = {"EN": "Englisch", "FA": "Farsi", "AR": "Arabisch"}
-FORMULIERUNGEN = ["F1", "F2"]
-WIEDERHOLUNGEN = 1
+# ── CHECKPOINT ────────────────────────────────────────────
+def lade_checkpoint():
+    if os.path.exists(CHECKPOINT_FILE):
+        with open(CHECKPOINT_FILE, "r", encoding="utf-8") as f:
+            return set(line.strip() for line in f if line.strip())
+    return set()
 
-output_datei = "iterationen/iteration8/resultate_iteration8_ALL.csv"
-os.makedirs("iterationen/iteration8", exist_ok=True)
+def speichere_checkpoint(key):
+    with open(CHECKPOINT_FILE, "a", encoding="utf-8") as f:
+        f.write(key + "\n")
 
+# ── FLEXIBLES MATCHING ─────────────────────────────────────
+ARABISCH_ZU_WESTERN = {"۱": "1", "۲": "2", "۳": "3", "۴": "4"}
+
+def match_antwort(rohantwort, optionen, set_name):
+    """Flexibles Matching mit Normalisierung."""
+    # Normalisierung: Punkte, Ausrufezeichen, Leerzeichen entfernen
+    normiert = rohantwort.strip(".,!؟?").strip()
+    
+    # Direktes Match
+    for i, option in enumerate(optionen):
+        if normiert == option or normiert == option.strip(".,!؟?").strip():
+            return SCORING[i]
+    
+    # Arabische Ziffern für Set3
+    if set_name == "Set3":
+        western = ARABISCH_ZU_WESTERN.get(normiert, normiert)
+        if western in optionen:
+            return SCORING[optionen.index(western)]
+    
+    return -1
+
+# ── START ─────────────────────────────────────────────────
 client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=API_KEY)
+erledigte = lade_checkpoint()
+print(f"✅ Checkpoint: {len(erledigte):,} Abfragen bereits erledigt")
 
-with open(output_datei, "w", newline="", encoding="utf-8-sig") as f:
-    writer = csv.writer(f)
-    writer.writerow(["modell", "sprache", "subgruppe", "item_id", "dimension",
-                     "formulierung", "antwortset", "wiederholung",
-                     "rohantwort", "score", "invertiert"])
+if not os.path.exists(OUTPUT_CSV):
+    with open(OUTPUT_CSV, "w", newline="", encoding="utf-8-sig") as f:
+        writer = csv.writer(f)
+        writer.writerow(["modell", "sprache", "subgruppe", "item_id", "dimension",
+                         "formulierung", "antwortset", "wiederholung",
+                         "rohantwort", "score", "invertiert"])
+    print("📄 Neue CSV erstellt")
+else:
+    print("📄 Bestehende CSV weitergeführt")
 
 # Total berechnen
 total = 0
 for sprache in SPRACHEN:
     stmts = lade_statements(EXCEL_PFAD, SPRACHEN_EXCEL[sprache], "F1")
-    total += len(MODELLE) * len(SUBGRUPPEN[sprache]) * len(stmts) * len(ANTWORTSETS[sprache]) * len(FORMULIERUNGEN) * WIEDERHOLUNGEN
+    total += (len(MODELLE) * len(SUBGRUPPEN[sprache]) * len(stmts) *
+              len(ANTWORTSETS[sprache]) * len(FORMULIERUNGEN) * WIEDERHOLUNGEN)
+
+ausstehend = total - len(erledigte)
+print(f"\n🚀 Starte Iteration 9 — Haupterhebung")
+print(f"   Total: {total:,} | Erledigt: {len(erledigte):,} | Ausstehend: {ausstehend:,}")
+print(f"   Modelle: {[m.split('/')[-1] for m in MODELLE]}")
+print("=" * 60)
 
 count = 0
 fehler = 0
-print(f"Starte Iteration 8: {total} Anfragen total")
-print(f"Modelle: DeepSeek v3.2 | Qwen 2.5-72B | Mistral Large\n")
+start_zeit = time.time()
 
 for sprache in SPRACHEN:
     for formulierung in FORMULIERUNGEN:
         statements = lade_statements(EXCEL_PFAD, SPRACHEN_EXCEL[sprache], formulierung)
-        print(f"\n{'='*50}")
-        print(f"Sprache: {sprache} | Formulierung: {formulierung}")
-        print(f"{'='*50}")
-
         for modell in MODELLE:
             for subgruppe in SUBGRUPPEN[sprache]:
                 for stmt in statements:
@@ -130,52 +155,62 @@ for sprache in SPRACHEN:
                     for set_name, optionen in ANTWORTSETS[sprache].items():
                         choices_str = " / ".join(optionen)
                         system = SYSTEM_PROMPTS[sprache].replace("{choices}", choices_str)
-                        user = USER_PROMPTS[sprache]\
-                            .replace("{choices}", choices_str)\
-                            .replace("{subgruppe}", subgruppe)\
-                            .replace("{statement}", statement_text)
+                        user = (USER_PROMPTS[sprache]
+                                .replace("{choices}", choices_str)
+                                .replace("{subgruppe}", subgruppe)
+                                .replace("{statement}", statement_text))
 
                         for w in range(1, WIEDERHOLUNGEN + 1):
                             count += 1
-                            print(f"[{count}/{total}] {modell.split('/')[-1]} | {sprache} | {formulierung} | {stmt['id']} | {set_name}")
+                            ck = f"{modell}|{sprache}|{formulierung}|{subgruppe}|{stmt['id']}|{set_name}|W{w}"
+                            if ck in erledigte:
+                                continue
 
-                            try:
-                                response = client.chat.completions.create(
-                                    model=modell,
-                                    messages=[
-                                        {"role": "system", "content": system},
-                                        {"role": "user", "content": user}
-                                    ],
-                                    temperature=1.0,
-                                    max_tokens=50,
-                                )
-                                content = response.choices[0].message.content
-                                rohantwort = content.strip() if content else "EMPTY_RESPONSE"
-                                if rohantwort in optionen:
-                                    score = SCORING_POSITION[optionen.index(rohantwort)]
-                                else:
-                                    score = -1
-                                    fehler += 1
-                                    print(f"  UNGUELTIG: '{rohantwort}'")
+                            if count % 200 == 0:
+                                elapsed = time.time() - start_zeit
+                                done = count - len(erledigte)
+                                if done > 0:
+                                    eta_min = int((ausstehend - done) / (done / elapsed) / 60)
+                                    print(f"[{count:,}/{total:,}] {modell.split('/')[-1]} | {sprache} | W{w} | Fehler: {fehler} | ETA: ~{eta_min} Min")
 
-                            except Exception as e:
-                                rohantwort = f"ERROR: {e}"
-                                score = -1
-                                fehler += 1
-                                print(f"  FEHLER: {e}")
+                            rohantwort = "ERROR"
+                            score = -1
+                            for attempt in range(3):
+                                try:
+                                    response = client.chat.completions.create(
+                                        model=modell,
+                                        messages=[
+                                            {"role": "system", "content": system},
+                                            {"role": "user", "content": user}
+                                        ],
+                                        temperature=1.0,
+                                        max_tokens=50,
+                                    )
+                                    content = response.choices[0].message.content
+                                    rohantwort = content.strip() if content else "EMPTY"
+                                    score = match_antwort(rohantwort, optionen, set_name)
+                                    if score == -1:
+                                        fehler += 1
+                                    break
+                                except Exception as e:
+                                    if attempt < 2:
+                                        time.sleep(5)
+                                    else:
+                                        rohantwort = "ERROR"
+                                        score = -1
+                                        fehler += 1
 
-                            with open(output_datei, "a", newline="", encoding="utf-8-sig") as f:
+                            with open(OUTPUT_CSV, "a", newline="", encoding="utf-8-sig") as f:
                                 writer = csv.writer(f)
                                 writer.writerow([modell, sprache, subgruppe, stmt["id"],
                                                  stmt["dimension"], formulierung, set_name,
                                                  w, rohantwort, score, stmt["invertiert"]])
+                            speichere_checkpoint(ck)
+                            time.sleep(1 if "gemini" in modell else 0.2)
 
-                            # 3s Pause fuer Qwen und Mistral, 0.5s fuer DeepSeek
-                            if "qwen" in modell or "mistral" in modell:
-                                time.sleep(3)
-                            else:
-                                time.sleep(0.5)
-
-print(f"\n{'='*50}")
-print(f"Fertig! Resultate: {output_datei}")
-print(f"Total: {total} | Fehler: {fehler} | Erfolgsrate: {round((total-fehler)/total*100, 1)}%")
+print("\n" + "=" * 60)
+print("✅ ITERATION 9 ABGESCHLOSSEN!")
+valide = total - fehler
+print(f"   Total: {total:,} | Fehler: {fehler} | Erfolgsrate: {round(valide/total*100,1)}%")
+print(f"   CSV: {OUTPUT_CSV}")
+print("=" * 60)
