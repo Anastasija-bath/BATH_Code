@@ -1,7 +1,7 @@
 # BATH: Repräsentation iranischer Subgruppen im Atomprogramm-Diskurs
 **Bachelorarbeit | Anastasija Jevtic | OST Ostschweizer Fachhochschule | FS26**
 
-> ⚠️ Work in Progress — Stand: Mai 2026. Änderungen vorbehalten.
+>  Work in Progress — Stand: Juni 2026. Änderungen vorbehalten.
 
 ## Projektbeschreibung
 Diese Bachelorarbeit untersucht empirisch, inwiefern sich Large Language Models (LLMs) in ihrer Darstellung iranischer politischer Subgruppen im Atomprogramm-Diskurs unterscheiden — und ob diese Darstellung je nach Abfragesprache variiert. Die Erhebung erfolgt mittels expliziter Zustimmungsanalyse (strukturierte Statements, Likert-Skala) und folgt dem Design Science Ansatz nach Hevner et al. (2004).
