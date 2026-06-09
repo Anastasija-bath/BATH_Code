@@ -1,0 +1,16 @@
+﻿Modell,Antwortset,Mittelwert,SD,n
+anthropic/claude-sonnet-4-5,Set1,67.11,36.66,3839
+anthropic/claude-sonnet-4-5,Set2,67.47,35.93,3840
+anthropic/claude-sonnet-4-5,Set3,64.28,40.46,3842
+deepseek/deepseek-v3.2,Set1,69.24,34.31,3839
+deepseek/deepseek-v3.2,Set2,69.25,34.64,3784
+deepseek/deepseek-v3.2,Set3,63.67,39.01,3834
+google/gemini-2.5-flash,Set1,72.11,36.69,3840
+google/gemini-2.5-flash,Set2,74.24,38.2,3829
+google/gemini-2.5-flash,Set3,69.42,37.18,3806
+openai/gpt-5.4,Set1,74.49,34.47,3841
+openai/gpt-5.4,Set2,75.16,34.24,3833
+openai/gpt-5.4,Set3,71.66,38.66,3841
+x-ai/grok-4.3,Set1,55.82,48.48,3837
+x-ai/grok-4.3,Set2,57.23,48.31,3841
+x-ai/grok-4.3,Set3,59.96,42.11,3829

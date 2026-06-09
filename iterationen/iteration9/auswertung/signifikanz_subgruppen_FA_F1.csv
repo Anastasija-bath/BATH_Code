@@ -1,0 +1,8 @@
+﻿Test,Gruppe 1,Gruppe 2,Statistik,p-Wert,Signifikant (α=0.05)
+Kruskal-Wallis,alle,-,176.1032,0.0,Ja
+Mann-Whitney-U,Hardline-Principlists,IRGC/Securocrats,2503422.5,0.0,Ja
+Mann-Whitney-U,Hardline-Principlists,Pragmatic Moderates,2287319.5,0.0,Ja
+Mann-Whitney-U,Hardline-Principlists,Reformists,2478918.5,0.0,Ja
+Mann-Whitney-U,IRGC/Securocrats,Pragmatic Moderates,2523059.0,0.0,Ja
+Mann-Whitney-U,IRGC/Securocrats,Reformists,2774747.0,0.1709,Nein
+Mann-Whitney-U,Pragmatic Moderates,Reformists,3185986.5,0.0,Ja

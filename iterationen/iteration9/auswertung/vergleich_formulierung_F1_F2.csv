@@ -1,0 +1,11 @@
+﻿Modell,Formulierung,Mittelwert,SD,n
+anthropic/claude-sonnet-4-5,F1,67.2,37.31,5761
+anthropic/claude-sonnet-4-5,F2,65.37,38.18,5760
+deepseek/deepseek-v3.2,F1,67.34,35.99,5703
+deepseek/deepseek-v3.2,F2,67.41,36.3,5754
+google/gemini-2.5-flash,F1,72.33,37.3,5725
+google/gemini-2.5-flash,F2,71.53,37.53,5750
+openai/gpt-5.4,F1,74.35,35.4,5759
+openai/gpt-5.4,F2,73.18,36.34,5756
+x-ai/grok-4.3,F1,57.46,46.47,5755
+x-ai/grok-4.3,F2,57.88,46.38,5752
