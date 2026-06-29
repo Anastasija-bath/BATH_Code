@@ -1,0 +1,12 @@
+﻿Test,Gruppe 1,Gruppe 2,Statistik,p-Wert,Signifikant (α=0.05)
+Kruskal-Wallis,alle,-,152.4207,0.0,Ja
+Mann-Whitney-U,anthropic/claude-sonnet-4-5,deepseek/deepseek-v3.2,1764823.0,0.0189,Nein
+Mann-Whitney-U,anthropic/claude-sonnet-4-5,google/gemini-2.5-flash,1639172.0,0.0,Ja
+Mann-Whitney-U,anthropic/claude-sonnet-4-5,openai/gpt-5.4,1539818.0,0.0,Ja
+Mann-Whitney-U,anthropic/claude-sonnet-4-5,x-ai/grok-4.3,1939155.0,0.0025,Ja
+Mann-Whitney-U,deepseek/deepseek-v3.2,google/gemini-2.5-flash,1698437.0,0.0,Ja
+Mann-Whitney-U,deepseek/deepseek-v3.2,openai/gpt-5.4,1601718.0,0.0,Ja
+Mann-Whitney-U,deepseek/deepseek-v3.2,x-ai/grok-4.3,1965622.0,0.0001,Ja
+Mann-Whitney-U,google/gemini-2.5-flash,openai/gpt-5.4,1758458.5,0.0068,Nein
+Mann-Whitney-U,google/gemini-2.5-flash,x-ai/grok-4.3,2078143.0,0.0,Ja
+Mann-Whitney-U,openai/gpt-5.4,x-ai/grok-4.3,2142798.5,0.0,Ja

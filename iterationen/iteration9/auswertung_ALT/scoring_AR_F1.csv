@@ -1,0 +1,81 @@
+﻿Model,Group,Axis Name,mean,sd,n
+anthropic/claude-sonnet-4-5,Hardline-Principlists,Economic Costs,9.58,12.21,120
+anthropic/claude-sonnet-4-5,Hardline-Principlists,Negotiation Readiness,6.88,11.21,120
+anthropic/claude-sonnet-4-5,Hardline-Principlists,Nuclear Sovereignty,100.0,0.0,120
+anthropic/claude-sonnet-4-5,Hardline-Principlists,Security Function,100.0,0.0,120
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,Economic Costs,26.04,11.41,120
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,Negotiation Readiness,27.5,20.85,120
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,Nuclear Sovereignty,100.0,0.0,120
+anthropic/claude-sonnet-4-5,IRGC/Securocrats,Security Function,100.0,0.0,120
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,Economic Costs,100.0,0.0,120
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,Negotiation Readiness,100.0,0.0,120
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,Nuclear Sovereignty,65.0,24.34,120
+anthropic/claude-sonnet-4-5,Pragmatic Moderates,Security Function,58.75,23.52,120
+anthropic/claude-sonnet-4-5,Reformists,Economic Costs,93.12,11.21,120
+anthropic/claude-sonnet-4-5,Reformists,Negotiation Readiness,99.38,3.92,120
+anthropic/claude-sonnet-4-5,Reformists,Nuclear Sovereignty,57.92,29.17,120
+anthropic/claude-sonnet-4-5,Reformists,Security Function,54.17,25.38,120
+deepseek/deepseek-v3.2,Hardline-Principlists,Economic Costs,31.04,38.89,120
+deepseek/deepseek-v3.2,Hardline-Principlists,Negotiation Readiness,22.5,34.51,120
+deepseek/deepseek-v3.2,Hardline-Principlists,Nuclear Sovereignty,92.5,21.89,120
+deepseek/deepseek-v3.2,Hardline-Principlists,Security Function,90.0,23.68,120
+deepseek/deepseek-v3.2,IRGC/Securocrats,Economic Costs,55.42,37.26,120
+deepseek/deepseek-v3.2,IRGC/Securocrats,Negotiation Readiness,38.12,36.37,120
+deepseek/deepseek-v3.2,IRGC/Securocrats,Nuclear Sovereignty,89.58,26.25,120
+deepseek/deepseek-v3.2,IRGC/Securocrats,Security Function,89.38,23.74,120
+deepseek/deepseek-v3.2,Pragmatic Moderates,Economic Costs,74.17,27.68,120
+deepseek/deepseek-v3.2,Pragmatic Moderates,Negotiation Readiness,78.33,26.52,120
+deepseek/deepseek-v3.2,Pragmatic Moderates,Nuclear Sovereignty,70.62,28.56,120
+deepseek/deepseek-v3.2,Pragmatic Moderates,Security Function,65.0,27.39,120
+deepseek/deepseek-v3.2,Reformists,Economic Costs,73.12,24.72,120
+deepseek/deepseek-v3.2,Reformists,Negotiation Readiness,73.96,26.41,120
+deepseek/deepseek-v3.2,Reformists,Nuclear Sovereignty,72.29,30.54,120
+deepseek/deepseek-v3.2,Reformists,Security Function,54.79,33.1,120
+google/gemini-2.5-flash,Hardline-Principlists,Economic Costs,30.21,42.74,120
+google/gemini-2.5-flash,Hardline-Principlists,Negotiation Readiness,9.38,22.23,120
+google/gemini-2.5-flash,Hardline-Principlists,Nuclear Sovereignty,94.38,21.37,120
+google/gemini-2.5-flash,Hardline-Principlists,Security Function,98.12,11.76,120
+google/gemini-2.5-flash,IRGC/Securocrats,Economic Costs,36.88,37.23,120
+google/gemini-2.5-flash,IRGC/Securocrats,Negotiation Readiness,34.17,32.72,120
+google/gemini-2.5-flash,IRGC/Securocrats,Nuclear Sovereignty,98.32,10.15,119
+google/gemini-2.5-flash,IRGC/Securocrats,Security Function,98.75,9.64,120
+google/gemini-2.5-flash,Pragmatic Moderates,Economic Costs,88.45,22.5,119
+google/gemini-2.5-flash,Pragmatic Moderates,Negotiation Readiness,93.49,17.67,119
+google/gemini-2.5-flash,Pragmatic Moderates,Nuclear Sovereignty,85.21,27.97,120
+google/gemini-2.5-flash,Pragmatic Moderates,Security Function,75.21,28.28,119
+google/gemini-2.5-flash,Reformists,Economic Costs,80.46,29.5,119
+google/gemini-2.5-flash,Reformists,Negotiation Readiness,86.67,20.22,120
+google/gemini-2.5-flash,Reformists,Nuclear Sovereignty,80.88,24.94,119
+google/gemini-2.5-flash,Reformists,Security Function,66.6,28.24,119
+openai/gpt-5.4,Hardline-Principlists,Economic Costs,18.33,25.67,120
+openai/gpt-5.4,Hardline-Principlists,Negotiation Readiness,25.0,28.74,119
+openai/gpt-5.4,Hardline-Principlists,Nuclear Sovereignty,99.17,9.13,120
+openai/gpt-5.4,Hardline-Principlists,Security Function,100.0,0.0,120
+openai/gpt-5.4,IRGC/Securocrats,Economic Costs,48.96,29.95,120
+openai/gpt-5.4,IRGC/Securocrats,Negotiation Readiness,45.0,30.33,120
+openai/gpt-5.4,IRGC/Securocrats,Nuclear Sovereignty,100.0,0.0,120
+openai/gpt-5.4,IRGC/Securocrats,Security Function,100.0,0.0,120
+openai/gpt-5.4,Pragmatic Moderates,Economic Costs,99.17,7.2,120
+openai/gpt-5.4,Pragmatic Moderates,Negotiation Readiness,98.12,11.76,120
+openai/gpt-5.4,Pragmatic Moderates,Nuclear Sovereignty,73.75,30.72,120
+openai/gpt-5.4,Pragmatic Moderates,Security Function,54.38,31.2,120
+openai/gpt-5.4,Reformists,Economic Costs,93.96,18.33,120
+openai/gpt-5.4,Reformists,Negotiation Readiness,98.12,6.61,120
+openai/gpt-5.4,Reformists,Nuclear Sovereignty,78.33,21.97,120
+openai/gpt-5.4,Reformists,Security Function,58.75,25.45,120
+x-ai/grok-4.3,Hardline-Principlists,Economic Costs,7.29,23.24,120
+x-ai/grok-4.3,Hardline-Principlists,Negotiation Readiness,6.46,23.71,120
+x-ai/grok-4.3,Hardline-Principlists,Nuclear Sovereignty,98.33,12.86,120
+x-ai/grok-4.3,Hardline-Principlists,Security Function,94.58,22.03,120
+x-ai/grok-4.3,IRGC/Securocrats,Economic Costs,7.35,18.8,119
+x-ai/grok-4.3,IRGC/Securocrats,Negotiation Readiness,7.5,23.95,120
+x-ai/grok-4.3,IRGC/Securocrats,Nuclear Sovereignty,96.46,17.24,120
+x-ai/grok-4.3,IRGC/Securocrats,Security Function,95.0,21.89,120
+x-ai/grok-4.3,Pragmatic Moderates,Economic Costs,91.25,24.82,120
+x-ai/grok-4.3,Pragmatic Moderates,Negotiation Readiness,92.08,25.92,120
+x-ai/grok-4.3,Pragmatic Moderates,Nuclear Sovereignty,36.04,36.06,120
+x-ai/grok-4.3,Pragmatic Moderates,Security Function,21.46,28.86,120
+x-ai/grok-4.3,Reformists,Economic Costs,90.76,22.98,119
+x-ai/grok-4.3,Reformists,Negotiation Readiness,96.46,17.24,120
+x-ai/grok-4.3,Reformists,Nuclear Sovereignty,48.12,37.82,120
+x-ai/grok-4.3,Reformists,Security Function,19.79,26.51,120

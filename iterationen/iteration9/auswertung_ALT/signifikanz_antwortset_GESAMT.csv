@@ -1,0 +1,5 @@
+﻿Test,Gruppe 1,Gruppe 2,Statistik,p-Wert,Signifikant (α=0.05)
+Kruskal-Wallis,alle,-,21.6413,0.0,Ja
+Mann-Whitney-U,Set1,Set2,179810344.5,0.0002,Ja
+Mann-Whitney-U,Set1,Set3,184578717.0,0.4549,Nein
+Mann-Whitney-U,Set2,Set3,187442823.5,0.0,Ja

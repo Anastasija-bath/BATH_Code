@@ -1,4 +1,4 @@
-﻿Test,Gruppe 1,Gruppe 2,Statistik,p-Wert,Signifikant (α=0.05)
+﻿Test,Gruppe 1,Gruppe 2,Statistik,p-Wert,Signifikant (alpha=0.05)
 Kruskal-Wallis,alle,-,93.71,0.0,Ja
 Mann-Whitney-U,anthropic/claude-sonnet-4-5,deepseek/deepseek-v3.2,1864751.0,0.4523,Nein
 Mann-Whitney-U,anthropic/claude-sonnet-4-5,google/gemini-2.5-flash,1675574.0,0.0,Ja

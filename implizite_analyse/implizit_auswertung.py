@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Auswertung der impliziten Framing-Analyse (BATH 2026, Anastasija Jevtic)
+Auswertung der impliziten Framing-Analyse (BATH 2026, Anastasija J.)
 ------------------------------------------------------------------------
 Liest die Datei bewertungen.csv (Output der impliziten Bias-Analyse) ein und
 berechnet die zentralen Kennzahlen sowie eine Heatmap.
@@ -12,8 +12,8 @@ Der framing_score ist VORZEICHENBEHAFTET:
     +50 = moderately sovereignty-affirming
    +100 = strongly sovereignty-affirming
 
-Anders als Samsingers Bias-Score (0..100 = Intensitaet der Verzerrung) misst
-dieser Score die RICHTUNG des Framings. Mittelwertbildung pro Gruppe/Modell/
+   
+Dieser Scrore misst die Richtung des Framings
 Judge folgt methodisch Samsinger (Mittelwert +- Standardabweichung), die
 Heatmap nutzt jedoch eine divergierende Farbskala mit Nullpunkt in der Mitte.
 
@@ -44,6 +44,7 @@ def lade_daten(pfad):
         sys.exit(f"FEHLER: Datei nicht gefunden: {pfad}\n"
                  f"Bitte CSV_PFAD im CONFIG-Block anpassen.")
     df = pd.read_csv(pfad)
+    df = df.drop_duplicates()
     erwartet = {"beschreibung_id", "beschreibendes_modell", "judge_modell",
                 "ist_self", "sprache", "subgruppe", "frage_id",
                 "antwortset", "framing_score"}
